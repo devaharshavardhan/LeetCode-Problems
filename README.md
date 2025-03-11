@@ -7,6 +7,7 @@ Solved Problems
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0001-two-sum) |
+| [0027-remove-element](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0027-remove-element) |
 ## Hash Table
 |  |
 | ------- |
@@ -16,6 +17,7 @@ Solved Problems
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0005-longest-palindromic-substring) |
+| [0027-remove-element](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0027-remove-element) |
 ## String
 |  |
 | ------- |
