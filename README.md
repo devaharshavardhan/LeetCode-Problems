@@ -8,6 +8,7 @@ Solved Problems
 | ------- |
 | [0001-two-sum](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0027-remove-element) |
+| [0088-merge-sorted-array](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0088-merge-sorted-array) |
 | [1524-string-matching-in-an-array](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/1524-string-matching-in-an-array) |
 ## Hash Table
 |  |
@@ -19,6 +20,7 @@ Solved Problems
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0027-remove-element](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0027-remove-element) |
+| [0088-merge-sorted-array](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0088-merge-sorted-array) |
 ## String
 |  |
 | ------- |
@@ -37,4 +39,8 @@ Solved Problems
 |  |
 | ------- |
 | [1524-string-matching-in-an-array](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/1524-string-matching-in-an-array) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
