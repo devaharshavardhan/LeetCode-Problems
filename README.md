@@ -9,6 +9,7 @@ Solved Problems
 | [0001-two-sum](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0035-search-insert-position) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0088-merge-sorted-array) |
 | [1524-string-matching-in-an-array](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/1524-string-matching-in-an-array) |
 ## Hash Table
@@ -48,4 +49,5 @@ Solved Problems
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0035-search-insert-position) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
 <!---LeetCode Topics End-->
