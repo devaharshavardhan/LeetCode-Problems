@@ -31,6 +31,7 @@ Solved Problems
 | [0005-longest-palindromic-substring](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0013-roman-to-integer) |
 | [1524-string-matching-in-an-array](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/1524-string-matching-in-an-array) |
+| [3379-score-of-a-string](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/3379-score-of-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
