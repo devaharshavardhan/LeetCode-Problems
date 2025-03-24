@@ -41,6 +41,7 @@ Solved Problems
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0013-roman-to-integer) |
+| [0326-power-of-three](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0326-power-of-three) |
 ## String Matching
 |  |
 | ------- |
@@ -59,4 +60,8 @@ Solved Problems
 |  |
 | ------- |
 | [3361-latest-time-you-can-obtain-after-replacing-characters](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/3361-latest-time-you-can-obtain-after-replacing-characters) |
+## Recursion
+|  |
+| ------- |
+| [0326-power-of-three](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->
