@@ -38,11 +38,13 @@ Solved Problems
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0005-longest-palindromic-substring) |
+| [1013-fibonacci-number](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/1013-fibonacci-number) |
 ## Math
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0013-roman-to-integer) |
 | [0326-power-of-three](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0326-power-of-three) |
+| [1013-fibonacci-number](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/1013-fibonacci-number) |
 ## String Matching
 |  |
 | ------- |
@@ -66,8 +68,13 @@ Solved Problems
 |  |
 | ------- |
 | [0326-power-of-three](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0326-power-of-three) |
+| [1013-fibonacci-number](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/1013-fibonacci-number) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0506-relative-ranks](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0506-relative-ranks) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
