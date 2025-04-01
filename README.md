@@ -80,4 +80,8 @@ Solved Problems
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/1013-fibonacci-number) |
+## Database
+|  |
+| ------- |
+| [0596-classes-more-than-5-students](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0596-classes-more-than-5-students) |
 <!---LeetCode Topics End-->
