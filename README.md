@@ -44,6 +44,7 @@ Solved Problems
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0013-roman-to-integer) |
 | [0202-happy-number](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0202-happy-number) |
 | [0326-power-of-three](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0326-power-of-three) |
