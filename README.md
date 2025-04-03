@@ -33,6 +33,7 @@ Solved Problems
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0014-longest-common-prefix) |
 | [1524-string-matching-in-an-array](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/1524-string-matching-in-an-array) |
 | [3361-latest-time-you-can-obtain-after-replacing-characters](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/3361-latest-time-you-can-obtain-after-replacing-characters) |
 | [3379-score-of-a-string](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/3379-score-of-a-string) |
@@ -85,4 +86,8 @@ Solved Problems
 |  |
 | ------- |
 | [0596-classes-more-than-5-students](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0596-classes-more-than-5-students) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
