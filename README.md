@@ -27,6 +27,7 @@ Solved Problems
 | [0005-longest-palindromic-substring](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0027-remove-element) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0088-merge-sorted-array) |
 | [0202-happy-number](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0202-happy-number) |
@@ -36,6 +37,7 @@ Solved Problems
 | [0005-longest-palindromic-substring](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0014-longest-common-prefix) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [1524-string-matching-in-an-array](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/1524-string-matching-in-an-array) |
 | [3361-latest-time-you-can-obtain-after-replacing-characters](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/3361-latest-time-you-can-obtain-after-replacing-characters) |
 | [3379-score-of-a-string](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/3379-score-of-a-string) |
@@ -55,6 +57,7 @@ Solved Problems
 ## String Matching
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [1524-string-matching-in-an-array](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/1524-string-matching-in-an-array) |
 ## Sorting
 |  |
