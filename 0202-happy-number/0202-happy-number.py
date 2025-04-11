@@ -1,3 +1,4 @@
+#Happy Number
 class Solution:
     def isHappy(self, n: int) -> bool:
         x=0
