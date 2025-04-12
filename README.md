@@ -39,6 +39,7 @@ Solved Problems
 | [0013-roman-to-integer](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0043-multiply-strings](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0043-multiply-strings) |
 | [1524-string-matching-in-an-array](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/1524-string-matching-in-an-array) |
 | [3361-latest-time-you-can-obtain-after-replacing-characters](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/3361-latest-time-you-can-obtain-after-replacing-characters) |
 | [3379-score-of-a-string](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/3379-score-of-a-string) |
@@ -52,6 +53,7 @@ Solved Problems
 | ------- |
 | [0007-reverse-integer](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0013-roman-to-integer) |
+| [0043-multiply-strings](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0043-multiply-strings) |
 | [0202-happy-number](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0202-happy-number) |
 | [0326-power-of-three](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0326-power-of-three) |
 | [1013-fibonacci-number](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/1013-fibonacci-number) |
@@ -97,4 +99,8 @@ Solved Problems
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0014-longest-common-prefix) |
+## Simulation
+|  |
+| ------- |
+| [0043-multiply-strings](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0043-multiply-strings) |
 <!---LeetCode Topics End-->
