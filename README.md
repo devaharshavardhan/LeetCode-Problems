@@ -54,6 +54,7 @@ Solved Problems
 | [0007-reverse-integer](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0013-roman-to-integer) |
 | [0043-multiply-strings](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0043-multiply-strings) |
+| [0050-powx-n](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0050-powx-n) |
 | [0202-happy-number](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0202-happy-number) |
 | [0326-power-of-three](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0326-power-of-three) |
 | [1013-fibonacci-number](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/1013-fibonacci-number) |
@@ -81,6 +82,7 @@ Solved Problems
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0050-powx-n) |
 | [0326-power-of-three](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0326-power-of-three) |
 | [1013-fibonacci-number](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/1013-fibonacci-number) |
 ## Heap (Priority Queue)
