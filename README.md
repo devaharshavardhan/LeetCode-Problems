@@ -15,6 +15,7 @@ Solved Problems
 | [0075-sort-colors](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0088-merge-sorted-array) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0506-relative-ranks](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0506-relative-ranks) |
 | [1524-string-matching-in-an-array](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/1524-string-matching-in-an-array) |
 ## Hash Table
@@ -50,6 +51,7 @@ Solved Problems
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0005-longest-palindromic-substring) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1013-fibonacci-number](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/1013-fibonacci-number) |
 ## Math
 |  |
