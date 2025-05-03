@@ -17,6 +17,7 @@ Solved Problems
 | [0088-merge-sorted-array](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0136-single-number) |
+| [0164-maximum-gap](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0164-maximum-gap) |
 | [0198-house-robber](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0198-house-robber) |
 | [0506-relative-ranks](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0506-relative-ranks) |
 | [1524-string-matching-in-an-array](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/1524-string-matching-in-an-array) |
@@ -78,6 +79,7 @@ Solved Problems
 | ------- |
 | [0075-sort-colors](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0088-merge-sorted-array) |
+| [0164-maximum-gap](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0164-maximum-gap) |
 | [0506-relative-ranks](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0506-relative-ranks) |
 ## Binary Search
 |  |
@@ -121,4 +123,12 @@ Solved Problems
 | ------- |
 | [0067-add-binary](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0136-single-number) |
+## Bucket Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0164-maximum-gap) |
+## Radix Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0164-maximum-gap) |
 <!---LeetCode Topics End-->
