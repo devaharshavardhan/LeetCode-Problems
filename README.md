@@ -19,6 +19,7 @@ Solved Problems
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0136-single-number) |
 | [0164-maximum-gap](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0164-maximum-gap) |
+| [0169-majority-element](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0198-house-robber) |
 | [0506-relative-ranks](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0506-relative-ranks) |
 | [1524-string-matching-in-an-array](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/1524-string-matching-in-an-array) |
@@ -27,6 +28,7 @@ Solved Problems
 | ------- |
 | [0001-two-sum](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0013-roman-to-integer) |
+| [0169-majority-element](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0202-happy-number) |
 ## Two Pointers
 |  |
@@ -82,6 +84,7 @@ Solved Problems
 | [0075-sort-colors](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0088-merge-sorted-array) |
 | [0164-maximum-gap](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0164-maximum-gap) |
+| [0169-majority-element](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0169-majority-element) |
 | [0506-relative-ranks](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0506-relative-ranks) |
 ## Binary Search
 |  |
@@ -133,4 +136,12 @@ Solved Problems
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0164-maximum-gap) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
