@@ -1,4 +1,3 @@
-#maximum gap
 class Solution:
     def maximumGap(self, nums: List[int]) -> int:
         nums.sort()
