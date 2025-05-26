@@ -1,3 +1,4 @@
+#search in position 
 class Solution:
     def searchInsert(self, nums: List[int], target: int) -> int:
         if target in nums:
@@ -6,6 +7,6 @@ class Solution:
             for i in range(len(nums)):
                 if nums[i]>=target:
                     return i
-            return len(nums)
+            return len(nums)8
               
         
