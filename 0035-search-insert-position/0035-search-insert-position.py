@@ -1,4 +1,4 @@
-# search in position 
+#  search in position 
 class Solution:
     def searchInsert(self, nums: List[int], target: int) -> int:
         if target in nums:
