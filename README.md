@@ -27,6 +27,7 @@ Solved Problems
 | [0643-maximum-average-subarray-i](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0643-maximum-average-subarray-i) |
 | [1524-string-matching-in-an-array](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/1524-string-matching-in-an-array) |
 | [2866-longest-even-odd-subarray-with-threshold](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/2866-longest-even-odd-subarray-with-threshold) |
+| [3381-shortest-subarray-with-or-at-least-k-i](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/3381-shortest-subarray-with-or-at-least-k-i) |
 | [3644-minimum-positive-sum-subarray](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/3644-minimum-positive-sum-subarray) |
 ## Hash Table
 |  |
@@ -139,6 +140,7 @@ Solved Problems
 | [0067-add-binary](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0191-number-of-1-bits) |
+| [3381-shortest-subarray-with-or-at-least-k-i](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/3381-shortest-subarray-with-or-at-least-k-i) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -161,6 +163,7 @@ Solved Problems
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0643-maximum-average-subarray-i) |
 | [2866-longest-even-odd-subarray-with-threshold](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/2866-longest-even-odd-subarray-with-threshold) |
+| [3381-shortest-subarray-with-or-at-least-k-i](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/3381-shortest-subarray-with-or-at-least-k-i) |
 | [3644-minimum-positive-sum-subarray](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/3644-minimum-positive-sum-subarray) |
 ## Prefix Sum
 |  |
