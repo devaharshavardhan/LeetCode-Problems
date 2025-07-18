@@ -37,6 +37,7 @@ Solved Problems
 | [0049-group-anagrams](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0202-happy-number) |
+| [3349-maximum-length-substring-with-two-occurrences](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 ## Two Pointers
 |  |
 | ------- |
@@ -60,6 +61,7 @@ Solved Problems
 | [0058-length-of-last-word](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0067-add-binary) |
 | [1524-string-matching-in-an-array](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/1524-string-matching-in-an-array) |
+| [3349-maximum-length-substring-with-two-occurrences](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 | [3361-latest-time-you-can-obtain-after-replacing-characters](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/3361-latest-time-you-can-obtain-after-replacing-characters) |
 | [3379-score-of-a-string](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/3379-score-of-a-string) |
 ## Dynamic Programming
@@ -163,6 +165,7 @@ Solved Problems
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0643-maximum-average-subarray-i) |
 | [2866-longest-even-odd-subarray-with-threshold](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/2866-longest-even-odd-subarray-with-threshold) |
+| [3349-maximum-length-substring-with-two-occurrences](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 | [3381-shortest-subarray-with-or-at-least-k-i](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/3381-shortest-subarray-with-or-at-least-k-i) |
 | [3644-minimum-positive-sum-subarray](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/3644-minimum-positive-sum-subarray) |
 ## Prefix Sum
