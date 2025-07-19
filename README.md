@@ -7,6 +7,7 @@ Solved Problems
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0033-search-in-rotated-sorted-array) |
@@ -101,6 +102,7 @@ Solved Problems
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -154,6 +156,7 @@ Solved Problems
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0169-majority-element](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0191-number-of-1-bits) |
 ## Counting
