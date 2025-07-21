@@ -13,6 +13,7 @@ Solved Problems
 | [0033-search-in-rotated-sorted-array](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -72,6 +73,7 @@ Solved Problems
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0005-longest-palindromic-substring) |
+| [0053-maximum-subarray](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0198-house-robber) |
@@ -161,6 +163,7 @@ Solved Problems
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0191-number-of-1-bits) |
 ## Counting
