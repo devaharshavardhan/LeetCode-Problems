@@ -189,4 +189,8 @@ Solved Problems
 | [0560-subarray-sum-equals-k](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0966-binary-subarrays-with-sum) |
 | [3644-minimum-positive-sum-subarray](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/3644-minimum-positive-sum-subarray) |
+## Linked List
+|  |
+| ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0083-remove-duplicates-from-sorted-list) |
 <!---LeetCode Topics End-->
