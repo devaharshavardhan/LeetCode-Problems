@@ -29,6 +29,7 @@ Solved Problems
 | [0560-subarray-sum-equals-k](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0643-maximum-average-subarray-i) |
 | [0966-binary-subarrays-with-sum](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0966-binary-subarrays-with-sum) |
+| [1019-squares-of-a-sorted-array](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/1019-squares-of-a-sorted-array) |
 | [1524-string-matching-in-an-array](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/1524-string-matching-in-an-array) |
 | [2866-longest-even-odd-subarray-with-threshold](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/2866-longest-even-odd-subarray-with-threshold) |
 | [3381-shortest-subarray-with-or-at-least-k-i](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/3381-shortest-subarray-with-or-at-least-k-i) |
@@ -57,6 +58,7 @@ Solved Problems
 | [0088-merge-sorted-array](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0202-happy-number) |
+| [1019-squares-of-a-sorted-array](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/1019-squares-of-a-sorted-array) |
 ## String
 |  |
 | ------- |
@@ -109,6 +111,7 @@ Solved Problems
 | [0169-majority-element](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0242-valid-anagram) |
 | [0506-relative-ranks](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0506-relative-ranks) |
+| [1019-squares-of-a-sorted-array](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/1019-squares-of-a-sorted-array) |
 ## Binary Search
 |  |
 | ------- |
