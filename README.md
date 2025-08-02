@@ -138,6 +138,7 @@ Solved Problems
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0050-powx-n) |
+| [0203-remove-linked-list-elements](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0203-remove-linked-list-elements) |
 | [0234-palindrome-linked-list](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0326-power-of-three) |
 | [1013-fibonacci-number](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/1013-fibonacci-number) |
@@ -207,6 +208,7 @@ Solved Problems
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0203-remove-linked-list-elements](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0203-remove-linked-list-elements) |
 | [0234-palindrome-linked-list](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0234-palindrome-linked-list) |
 | [0835-linked-list-components](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0835-linked-list-components) |
 | [0908-middle-of-the-linked-list](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0908-middle-of-the-linked-list) |
