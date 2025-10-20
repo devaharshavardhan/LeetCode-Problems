@@ -110,6 +110,7 @@ Solved Problems
 | [0326-power-of-three](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0326-power-of-three) |
 | [1013-fibonacci-number](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/1013-fibonacci-number) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 ## String Matching
 |  |
 | ------- |
@@ -174,6 +175,7 @@ Solved Problems
 | [0067-add-binary](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0191-number-of-1-bits) |
+| [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [3381-shortest-subarray-with-or-at-least-k-i](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/3381-shortest-subarray-with-or-at-least-k-i) |
 ## Bucket Sort
 |  |
