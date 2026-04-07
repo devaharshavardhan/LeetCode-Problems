@@ -27,6 +27,7 @@ Solved Problems
 | [0169-majority-element](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0198-house-robber) |
 | [0283-move-zeroes](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0506-relative-ranks](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0506-relative-ranks) |
 | [0560-subarray-sum-equals-k](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0643-maximum-average-subarray-i) |
@@ -50,6 +51,7 @@ Solved Problems
 | [0169-majority-element](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0560-subarray-sum-equals-k](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0835-linked-list-components](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0835-linked-list-components) |
 | [0940-fruit-into-baskets](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0940-fruit-into-baskets) |
@@ -70,6 +72,7 @@ Solved Problems
 | [0202-happy-number](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0908-middle-of-the-linked-list](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0908-middle-of-the-linked-list) |
 | [1019-squares-of-a-sorted-array](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/1019-squares-of-a-sorted-array) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
@@ -128,6 +131,7 @@ Solved Problems
 | [0164-maximum-gap](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0506-relative-ranks](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0506-relative-ranks) |
 | [1019-squares-of-a-sorted-array](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/1019-squares-of-a-sorted-array) |
 ## Binary Search
@@ -138,6 +142,7 @@ Solved Problems
 | [0035-search-insert-position](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0349-intersection-of-two-arrays](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0349-intersection-of-two-arrays) |
 ## Enumeration
 |  |
 | ------- |
