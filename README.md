@@ -51,6 +51,7 @@ Solved Problems
 | [0169-majority-element](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0560-subarray-sum-equals-k](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0835-linked-list-components](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0835-linked-list-components) |
@@ -89,6 +90,7 @@ Solved Problems
 | [0058-length-of-last-word](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0067-add-binary) |
 | [0242-valid-anagram](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0290-word-pattern) |
 | [1524-string-matching-in-an-array](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/1524-string-matching-in-an-array) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 | [3361-latest-time-you-can-obtain-after-replacing-characters](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/3361-latest-time-you-can-obtain-after-replacing-characters) |
