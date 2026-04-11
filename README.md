@@ -41,6 +41,7 @@ Solved Problems
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3644-minimum-positive-sum-subarray](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/3644-minimum-positive-sum-subarray) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
+| [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -59,6 +60,7 @@ Solved Problems
 | [0966-binary-subarrays-with-sum](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0966-binary-subarrays-with-sum) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 ## Two Pointers
 |  |
 | ------- |
