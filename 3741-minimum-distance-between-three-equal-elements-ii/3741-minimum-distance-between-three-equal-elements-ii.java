@@ -14,8 +14,8 @@ class Solution {
                     int n = list.size();
                     int first = list.get(n - 3);
                     int third = list.get(n - 1);
-
-                    int dist = 2 * (third - first);
+                    int mid=list.get(n-2);
+                    int dist = Math.abs(first-mid)+Math.abs(mid-third)+Math.abs(third-first);
                     res = Math.min(res, dist);
                 }
 
