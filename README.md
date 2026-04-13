@@ -47,6 +47,7 @@ Solved Problems
 | ------- |
 | [0001-two-sum](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0169-majority-element) |
@@ -84,6 +85,7 @@ Solved Problems
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0005-longest-palindromic-substring) |
+| [0012-integer-to-roman](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -110,6 +112,7 @@ Solved Problems
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0007-reverse-integer) |
+| [0012-integer-to-roman](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0013-roman-to-integer) |
 | [0043-multiply-strings](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0050-powx-n) |
