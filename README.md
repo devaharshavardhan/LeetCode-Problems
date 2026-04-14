@@ -57,6 +57,7 @@ Solved Problems
 | [0242-valid-anagram](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0349-intersection-of-two-arrays) |
+| [0424-longest-repeating-character-replacement](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0835-linked-list-components](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0835-linked-list-components) |
 | [0940-fruit-into-baskets](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0940-fruit-into-baskets) |
@@ -97,6 +98,7 @@ Solved Problems
 | [0067-add-binary](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0067-add-binary) |
 | [0242-valid-anagram](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0290-word-pattern) |
+| [0424-longest-repeating-character-replacement](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [1524-string-matching-in-an-array](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/1524-string-matching-in-an-array) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 | [3361-latest-time-you-can-obtain-after-replacing-characters](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/3361-latest-time-you-can-obtain-after-replacing-characters) |
@@ -218,6 +220,7 @@ Solved Problems
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0643-maximum-average-subarray-i](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0643-maximum-average-subarray-i) |
 | [0940-fruit-into-baskets](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0966-binary-subarrays-with-sum) |
