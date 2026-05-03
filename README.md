@@ -25,6 +25,7 @@ Solved Problems
 | [0164-maximum-gap](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0164-maximum-gap) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0198-house-robber) |
 | [0229-majority-element-ii](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0283-move-zeroes) |
@@ -79,6 +80,7 @@ Solved Problems
 | [0075-sort-colors](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0283-move-zeroes) |
@@ -126,6 +128,7 @@ Solved Problems
 | [0050-powx-n](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0067-add-binary) |
+| [0189-rotate-array](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0202-happy-number) |
 | [0326-power-of-three](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0326-power-of-three) |
 | [1013-fibonacci-number](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/1013-fibonacci-number) |
