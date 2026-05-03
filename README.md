@@ -105,6 +105,7 @@ Solved Problems
 | [0290-word-pattern](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0290-word-pattern) |
 | [0424-longest-repeating-character-replacement](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0451-sort-characters-by-frequency) |
+| [0796-rotate-string](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0796-rotate-string) |
 | [1524-string-matching-in-an-array](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/1524-string-matching-in-an-array) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 | [3361-latest-time-you-can-obtain-after-replacing-characters](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/3361-latest-time-you-can-obtain-after-replacing-characters) |
@@ -138,6 +139,7 @@ Solved Problems
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0796-rotate-string](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0796-rotate-string) |
 | [1524-string-matching-in-an-array](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/1524-string-matching-in-an-array) |
 ## Sorting
 |  |
