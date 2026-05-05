@@ -12,6 +12,7 @@ Solved Problems
 | [0026-remove-duplicates-from-sorted-array](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0033-search-in-rotated-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0049-group-anagrams) |
@@ -166,6 +167,7 @@ Solved Problems
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0033-search-in-rotated-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
