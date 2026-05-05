@@ -7,7 +7,7 @@ public class Solution extends VersionControl {
             int mid = s + (e - s) / 2;
 
             if (isBadVersion(mid)) {
-                e = mid-1;        // mid could be the answer
+                e = mid-1;       
             } else {
                 s = mid + 1;    // discard left part
             }
