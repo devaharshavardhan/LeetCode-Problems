@@ -44,6 +44,7 @@ Solved Problems
 | [1524-string-matching-in-an-array](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/1524-string-matching-in-an-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2553-separate-the-digits-in-an-array](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/2553-separate-the-digits-in-an-array) |
+| [2784-check-if-array-is-good](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/2784-check-if-array-is-good) |
 | [2866-longest-even-odd-subarray-with-threshold](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/2866-longest-even-odd-subarray-with-threshold) |
 | [3381-shortest-subarray-with-or-at-least-k-i](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/3381-shortest-subarray-with-or-at-least-k-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -71,6 +72,7 @@ Solved Problems
 | [0835-linked-list-components](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0835-linked-list-components) |
 | [0940-fruit-into-baskets](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0966-binary-subarrays-with-sum) |
+| [2784-check-if-array-is-good](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/2784-check-if-array-is-good) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
@@ -163,6 +165,7 @@ Solved Problems
 | [0451-sort-characters-by-frequency](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0506-relative-ranks](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0506-relative-ranks) |
 | [1019-squares-of-a-sorted-array](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/1019-squares-of-a-sorted-array) |
+| [2784-check-if-array-is-good](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/2784-check-if-array-is-good) |
 ## Binary Search
 |  |
 | ------- |
