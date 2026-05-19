@@ -45,6 +45,7 @@ Solved Problems
 | [1019-squares-of-a-sorted-array](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/1019-squares-of-a-sorted-array) |
 | [1524-string-matching-in-an-array](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/1524-string-matching-in-an-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [2540-minimum-common-value](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/2553-separate-the-digits-in-an-array) |
 | [2784-check-if-array-is-good](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/2784-check-if-array-is-good) |
 | [2866-longest-even-odd-subarray-with-threshold](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/2866-longest-even-odd-subarray-with-threshold) |
@@ -74,6 +75,7 @@ Solved Problems
 | [0835-linked-list-components](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0835-linked-list-components) |
 | [0940-fruit-into-baskets](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0966-binary-subarrays-with-sum) |
+| [2540-minimum-common-value](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/2540-minimum-common-value) |
 | [2784-check-if-array-is-good](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/2784-check-if-array-is-good) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -98,6 +100,7 @@ Solved Problems
 | [0908-middle-of-the-linked-list](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0908-middle-of-the-linked-list) |
 | [1019-squares-of-a-sorted-array](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/1019-squares-of-a-sorted-array) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+| [2540-minimum-common-value](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/2540-minimum-common-value) |
 ## String
 |  |
 | ------- |
@@ -183,6 +186,7 @@ Solved Problems
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0278-first-bad-version](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0349-intersection-of-two-arrays) |
+| [2540-minimum-common-value](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/2540-minimum-common-value) |
 ## Enumeration
 |  |
 | ------- |
