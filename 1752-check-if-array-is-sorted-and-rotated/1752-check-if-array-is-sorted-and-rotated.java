@@ -1,28 +1,15 @@
-import java.util.*;
-
 class Solution {
     public boolean check(int[] nums) {
-        int[] temp = nums.clone();
-        int len = nums.length;
-
+        int k=1;
+        int[] t=nums.clone();
         Arrays.sort(nums);
-
-        int k = 1;
-        int c = len - k;
-
-        while (k <= len) {
-            int[] x = new int[len];
-
-            for (int i = 0; i < len; i++) {
-                x[(i + c) % len] = temp[i];
+        int[] x=new int[nums.length];
+        while(k<=nums.length){
+            for(int i =0;i<nums.length;i++){
+                x[(i+k)%nums.length]=t[i];
             }
-
-            if (Arrays.equals(x, nums)) return true; 
-
+            if(Arrays.equals(x, nums)) return true;
             k++;
-            c = len - k;
-        }
-
-        return false;
+        }return false;
     }
 }
