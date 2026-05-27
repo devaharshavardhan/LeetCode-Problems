@@ -64,6 +64,7 @@ Solved Problems
 | [0012-integer-to-roman](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0049-group-anagrams) |
+| [0076-minimum-window-substring](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0076-minimum-window-substring) |
 | [0169-majority-element](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0202-happy-number) |
 | [0229-majority-element-ii](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0229-majority-element-ii) |
@@ -117,6 +118,7 @@ Solved Problems
 | [0049-group-anagrams](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0067-add-binary) |
+| [0076-minimum-window-substring](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0076-minimum-window-substring) |
 | [0242-valid-anagram](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0290-word-pattern) |
 | [0424-longest-repeating-character-replacement](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0424-longest-repeating-character-replacement) |
@@ -260,6 +262,7 @@ Solved Problems
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0643-maximum-average-subarray-i](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0643-maximum-average-subarray-i) |
