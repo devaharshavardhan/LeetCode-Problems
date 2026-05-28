@@ -66,6 +66,7 @@ Solved Problems
 | [0049-group-anagrams](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0076-minimum-window-substring) |
 | [0141-linked-list-cycle](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0202-happy-number) |
 | [0229-majority-element-ii](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0229-majority-element-ii) |
@@ -97,6 +98,7 @@ Solved Problems
 | [0075-sort-colors](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0142-linked-list-cycle-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0202-happy-number) |
@@ -288,6 +290,7 @@ Solved Problems
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0142-linked-list-cycle-ii) |
 | [0203-remove-linked-list-elements](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0203-remove-linked-list-elements) |
 | [0234-palindrome-linked-list](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0234-palindrome-linked-list) |
 | [0835-linked-list-components](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0835-linked-list-components) |
