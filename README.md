@@ -36,6 +36,7 @@ Solved Problems
 | [0209-minimum-size-subarray-sum](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0229-majority-element-ii](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0506-relative-ranks](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0506-relative-ranks) |
@@ -106,6 +107,7 @@ Solved Problems
 | [0202-happy-number](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0876-middle-of-the-linked-list](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0876-middle-of-the-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0908-middle-of-the-linked-list) |
@@ -198,6 +200,7 @@ Solved Problems
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0278-first-bad-version](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0278-first-bad-version) |
+| [0287-find-the-duplicate-number](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [2540-minimum-common-value](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/2540-minimum-common-value) |
 ## Enumeration
@@ -241,6 +244,7 @@ Solved Problems
 | [0067-add-binary](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0191-number-of-1-bits) |
+| [0287-find-the-duplicate-number](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [3381-shortest-subarray-with-or-at-least-k-i](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/3381-shortest-subarray-with-or-at-least-k-i) |
 ## Bucket Sort
