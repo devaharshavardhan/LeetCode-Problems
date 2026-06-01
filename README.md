@@ -26,6 +26,7 @@ Solved Problems
 | [0118-pascals-triangle](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0136-single-number) |
+| [0152-maximum-product-subarray](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0164-maximum-gap](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0164-maximum-gap) |
@@ -144,6 +145,7 @@ Solved Problems
 | [0053-maximum-subarray](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0152-maximum-product-subarray](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0198-house-robber) |
 | [1013-fibonacci-number](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/1013-fibonacci-number) |
 ## Math
