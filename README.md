@@ -49,6 +49,7 @@ Solved Problems
 | [0966-binary-subarrays-with-sum](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0966-binary-subarrays-with-sum) |
 | [1019-squares-of-a-sorted-array](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/1019-squares-of-a-sorted-array) |
 | [1524-string-matching-in-an-array](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/1524-string-matching-in-an-array) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2540-minimum-common-value](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/2553-separate-the-digits-in-an-array) |
@@ -148,6 +149,7 @@ Solved Problems
 | [0152-maximum-product-subarray](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0198-house-robber) |
 | [1013-fibonacci-number](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/1013-fibonacci-number) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Math
 |  |
 | ------- |
