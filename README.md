@@ -45,6 +45,7 @@ Solved Problems
 | [0643-maximum-average-subarray-i](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0643-maximum-average-subarray-i) |
 | [0835-linked-list-components](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0835-linked-list-components) |
 | [0904-fruit-into-baskets](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0904-fruit-into-baskets) |
+| [0918-maximum-sum-circular-subarray](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0918-maximum-sum-circular-subarray) |
 | [0940-fruit-into-baskets](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0966-binary-subarrays-with-sum) |
 | [1019-squares-of-a-sorted-array](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/1019-squares-of-a-sorted-array) |
@@ -149,6 +150,7 @@ Solved Problems
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0198-house-robber) |
+| [0918-maximum-sum-circular-subarray](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0918-maximum-sum-circular-subarray) |
 | [1013-fibonacci-number](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/1013-fibonacci-number) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
@@ -269,6 +271,7 @@ Solved Problems
 | [0053-maximum-subarray](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0191-number-of-1-bits) |
+| [0918-maximum-sum-circular-subarray](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0918-maximum-sum-circular-subarray) |
 ## Counting
 |  |
 | ------- |
@@ -327,4 +330,12 @@ Solved Problems
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0011-container-with-most-water) |
+## Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0918-maximum-sum-circular-subarray) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0918-maximum-sum-circular-subarray) |
 <!---LeetCode Topics End-->
