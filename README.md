@@ -154,6 +154,7 @@ Solved Problems
 | [1013-fibonacci-number](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/1013-fibonacci-number) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Math
 |  |
 | ------- |
@@ -171,6 +172,7 @@ Solved Problems
 | [1013-fibonacci-number](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/1013-fibonacci-number) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## String Matching
 |  |
 | ------- |
@@ -215,6 +217,7 @@ Solved Problems
 |  |
 | ------- |
 | [3361-latest-time-you-can-obtain-after-replacing-characters](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/3361-latest-time-you-can-obtain-after-replacing-characters) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Recursion
 |  |
 | ------- |
