@@ -41,6 +41,7 @@ Solved Problems
 | [0349-intersection-of-two-arrays](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0506-relative-ranks](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0506-relative-ranks) |
+| [0525-contiguous-array](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0643-maximum-average-subarray-i) |
 | [0835-linked-list-components](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0835-linked-list-components) |
@@ -82,6 +83,7 @@ Solved Problems
 | [0424-longest-repeating-character-replacement](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0451-sort-characters-by-frequency) |
+| [0525-contiguous-array](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0835-linked-list-components](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0835-linked-list-components) |
 | [0904-fruit-into-baskets](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0904-fruit-into-baskets) |
@@ -300,6 +302,7 @@ Solved Problems
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0209-minimum-size-subarray-sum) |
+| [0525-contiguous-array](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0966-binary-subarrays-with-sum) |
 | [3644-minimum-positive-sum-subarray](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/3644-minimum-positive-sum-subarray) |
