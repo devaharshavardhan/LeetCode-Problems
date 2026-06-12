@@ -19,6 +19,7 @@ Solved Problems
 | [0048-rotate-image](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0053-maximum-subarray) |
+| [0056-merge-intervals](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -187,6 +188,7 @@ Solved Problems
 | [0015-3sum](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0016-3sum-closest) |
 | [0049-group-anagrams](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0088-merge-sorted-array) |
 | [0164-maximum-gap](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0164-maximum-gap) |
