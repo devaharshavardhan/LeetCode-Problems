@@ -65,6 +65,7 @@ Solved Problems
 | [3644-minimum-positive-sum-subarray](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/3644-minimum-positive-sum-subarray) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
+| [3838-weighted-word-mapping](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/3838-weighted-word-mapping) |
 ## Hash Table
 |  |
 | ------- |
@@ -145,6 +146,7 @@ Solved Problems
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 | [3361-latest-time-you-can-obtain-after-replacing-characters](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/3361-latest-time-you-can-obtain-after-replacing-characters) |
 | [3379-score-of-a-string](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/3379-score-of-a-string) |
+| [3838-weighted-word-mapping](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/3838-weighted-word-mapping) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -254,6 +256,7 @@ Solved Problems
 | [0043-multiply-strings](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0067-add-binary) |
 | [2553-separate-the-digits-in-an-array](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/2553-separate-the-digits-in-an-array) |
+| [3838-weighted-word-mapping](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/3838-weighted-word-mapping) |
 ## Bit Manipulation
 |  |
 | ------- |
