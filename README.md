@@ -51,6 +51,7 @@ Solved Problems
 | [0918-maximum-sum-circular-subarray](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0918-maximum-sum-circular-subarray) |
 | [0940-fruit-into-baskets](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0966-binary-subarrays-with-sum) |
+| [0986-interval-list-intersections](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0986-interval-list-intersections) |
 | [1019-squares-of-a-sorted-array](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/1019-squares-of-a-sorted-array) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1524-string-matching-in-an-array](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/1524-string-matching-in-an-array) |
@@ -120,6 +121,7 @@ Solved Problems
 | [0349-intersection-of-two-arrays](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0876-middle-of-the-linked-list](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0876-middle-of-the-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0908-middle-of-the-linked-list) |
+| [0986-interval-list-intersections](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0986-interval-list-intersections) |
 | [1019-squares-of-a-sorted-array](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/1019-squares-of-a-sorted-array) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2540-minimum-common-value](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/2540-minimum-common-value) |
@@ -350,4 +352,8 @@ Solved Problems
 |  |
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0918-maximum-sum-circular-subarray) |
+## Sweep Line
+|  |
+| ------- |
+| [0986-interval-list-intersections](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0986-interval-list-intersections) |
 <!---LeetCode Topics End-->
