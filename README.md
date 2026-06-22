@@ -57,6 +57,7 @@ Solved Problems
 | [1524-string-matching-in-an-array](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/1524-string-matching-in-an-array) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2540-minimum-common-value](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/2553-separate-the-digits-in-an-array) |
 | [2784-check-if-array-is-good](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/2784-check-if-array-is-good) |
@@ -206,6 +207,7 @@ Solved Problems
 | [0451-sort-characters-by-frequency](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0506-relative-ranks](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0506-relative-ranks) |
 | [1019-squares-of-a-sorted-array](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/1019-squares-of-a-sorted-array) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2784-check-if-array-is-good](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/2784-check-if-array-is-good) |
 ## Binary Search
 |  |
@@ -222,6 +224,7 @@ Solved Problems
 | [0278-first-bad-version](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0349-intersection-of-two-arrays) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2540-minimum-common-value](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/2540-minimum-common-value) |
 ## Enumeration
 |  |
@@ -303,6 +306,7 @@ Solved Problems
 | [0904-fruit-into-baskets](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0904-fruit-into-baskets) |
 | [0940-fruit-into-baskets](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0966-binary-subarrays-with-sum) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2866-longest-even-odd-subarray-with-threshold](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/2866-longest-even-odd-subarray-with-threshold) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 | [3381-shortest-subarray-with-or-at-least-k-i](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/3381-shortest-subarray-with-or-at-least-k-i) |
@@ -314,6 +318,7 @@ Solved Problems
 | [0525-contiguous-array](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0966-binary-subarrays-with-sum) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [3644-minimum-positive-sum-subarray](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/3644-minimum-positive-sum-subarray) |
 ## Linked List
 |  |
@@ -346,6 +351,7 @@ Solved Problems
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0011-container-with-most-water) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Queue
 |  |
 | ------- |
