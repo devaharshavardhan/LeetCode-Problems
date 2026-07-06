@@ -52,6 +52,7 @@ Solved Problems
 | [0940-fruit-into-baskets](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0966-binary-subarrays-with-sum) |
 | [0986-interval-list-intersections](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0986-interval-list-intersections) |
+| [1004-max-consecutive-ones-iii](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1019-squares-of-a-sorted-array](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/1019-squares-of-a-sorted-array) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1524-string-matching-in-an-array](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/1524-string-matching-in-an-array) |
@@ -224,6 +225,7 @@ Solved Problems
 | [0278-first-bad-version](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0349-intersection-of-two-arrays) |
+| [1004-max-consecutive-ones-iii](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2540-minimum-common-value](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/2540-minimum-common-value) |
 ## Enumeration
@@ -306,6 +308,7 @@ Solved Problems
 | [0904-fruit-into-baskets](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0904-fruit-into-baskets) |
 | [0940-fruit-into-baskets](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0966-binary-subarrays-with-sum) |
+| [1004-max-consecutive-ones-iii](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2866-longest-even-odd-subarray-with-threshold](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/2866-longest-even-odd-subarray-with-threshold) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/3349-maximum-length-substring-with-two-occurrences) |
@@ -318,6 +321,7 @@ Solved Problems
 | [0525-contiguous-array](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0966-binary-subarrays-with-sum) |
+| [1004-max-consecutive-ones-iii](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [3644-minimum-positive-sum-subarray](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/3644-minimum-positive-sum-subarray) |
 ## Linked List
