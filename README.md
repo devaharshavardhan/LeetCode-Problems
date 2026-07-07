@@ -46,6 +46,7 @@ Solved Problems
 | [0525-contiguous-array](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0643-maximum-average-subarray-i) |
+| [0739-daily-temperatures](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0739-daily-temperatures) |
 | [0835-linked-list-components](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0835-linked-list-components) |
 | [0904-fruit-into-baskets](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0904-fruit-into-baskets) |
 | [0918-maximum-sum-circular-subarray](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0918-maximum-sum-circular-subarray) |
@@ -342,6 +343,7 @@ Solved Problems
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0234-palindrome-linked-list) |
+| [0739-daily-temperatures](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0739-daily-temperatures) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Matrix
 |  |
@@ -368,4 +370,8 @@ Solved Problems
 |  |
 | ------- |
 | [0986-interval-list-intersections](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0986-interval-list-intersections) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/devaharshavardhan/LeetCode-Problems/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
